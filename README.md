@@ -12,14 +12,7 @@ This project is a hands-on implementation of key **Object-Oriented Programming (
 
 ## 📁 Project Structure
 
-Java-Core-Concepts-Project/
-├── README.md
-├── src/
-│ ├── Main.java
-│ ├── multithreading/
-│ ├── polymorphism/
-│ └── ...
-└── ...
+<pre> ```bash Java-Core-Concepts-Project/ ├── README.md ├── LICENSE ├── src/ │ ├── Main.java │ ├── multithreading/ │ │ └── ... │ └── polymorphism/ │ └── ... ``` </pre>
 
 
 ## 🚀 How to Run
@@ -30,9 +23,11 @@ Java-Core-Concepts-Project/
 
 
 2. Compile the code:
+   ```bash
     javac -d out src/**/*.java
 
 3. Run the program:
+   ```bash
     java -cp out Main
 
 Use any IDE (e.g., VS Code or IntelliJ) for easier compilation and debugging.
