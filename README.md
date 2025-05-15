@@ -37,6 +37,8 @@ Java-Core-Concepts-Project/
 
 Use any IDE (e.g., VS Code or IntelliJ) for easier compilation and debugging.
 
+For convenience - having main method in each class
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
