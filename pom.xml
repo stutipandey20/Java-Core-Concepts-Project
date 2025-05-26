@@ -4,6 +4,13 @@
 
   <modelVersion>4.0.0</modelVersion>
 
+  <parent>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>3.2.5</version> 
+    <relativePath/> 
+  </parent>
+
   <groupId>com.stuti.java.coreconcept</groupId>
   <artifactId>java-core-concept</artifactId>
   <version>1.0-SNAPSHOT</version>
@@ -11,5 +18,11 @@
 
   <modules>
     <module>vehicle-management</module>
+    <module>async-api</module>
   </modules>
+
+  <properties>
+    <java.version>17</java.version>
+  </properties>
+  
 </project>
